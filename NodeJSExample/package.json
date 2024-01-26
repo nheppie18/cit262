@@ -4,17 +4,8 @@
   "description": "node example",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "hello": "node helloworld.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nheppie18/cit262.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nate Hepworth",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nheppie18/cit262/issues"
-  },
-  "homepage": "https://github.com/nheppie18/cit262#readme"
+  "license": "ISC"
 }
