@@ -7,6 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "hello": "node helloworld.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nheppie18/cit262.git"
+  },
   "author": "Nate Hepworth",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nheppie18/cit262/issues"
+  },
+  "homepage": "https://github.com/nheppie18/cit262#readme"
 }
