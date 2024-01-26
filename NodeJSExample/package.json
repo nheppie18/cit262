@@ -1,5 +1,5 @@
 {
-  "name": "cse262",
+  "name": "cit262",
   "version": "1.0.0",
   "description": "node example",
   "main": "index.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nheppie18/cse262.git"
+    "url": "git+https://github.com/nheppie18/cit262.git"
   },
   "author": "Nate Hepworth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nheppie18/cse262/issues"
+    "url": "https://github.com/nheppie18/cit262/issues"
   },
-  "homepage": "https://github.com/nheppie18/cse262#readme"
+  "homepage": "https://github.com/nheppie18/cit262#readme"
 }
